@@ -13,6 +13,8 @@ html {
     transition-duration: 0.4s;
     cursor: pointer;
     text-decoration: none;
+    position: fixed;
+    display: none;
 }
 
 #toTop:hover{
